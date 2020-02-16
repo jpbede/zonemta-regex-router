@@ -1,6 +1,6 @@
 {
   "name": "zonemta-regex-router",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "ZoneMTA Regex Router Plugin",
   "main": "index.js",
   "author": "Jan-Philipp Benecke",
