@@ -18,11 +18,11 @@ Add a configuration entry in the "plugins" section of your ZoneMTA app
   "plugins": {
     "modules/zonemta-regex-router": {
       "enabled": "main",
-      "regex": [
+      "regex": {
         "@t-(online|com)\\.de$": {
           "sendingZone": "default"
         }
-      ]
+      }
     }
   }
 ...
