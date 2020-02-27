@@ -8,7 +8,7 @@ This plugin is used to set the sending zone based on a RegExp
 Add this as a dependency for your ZoneMTA app
 
 ```
-npm install zonemta-ip-restriction --save
+npm install zonemta-regex-router --save
 ```
 
 Add a configuration entry in the "plugins" section of your ZoneMTA app
